@@ -1,5 +1,5 @@
 # Carol Ribeiro
-Experienced Data Scientist with a strong background in data analysis, machine learning, and data visualization. 
+Data Specialist with a strong background in data analysis, machine learning, and data visualization. 
 Proven ability to work collaboratively with cross-functional teams to gather requirements and derive valuable insights to drive business decisions. 
 Skilled in designing and implementing data pipelines, creating visually engaging and interactive dashboards using tools such as Tableau, Python, and SQL.
 Interested in applying data science skills to new domains and industries.
